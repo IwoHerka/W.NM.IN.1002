@@ -21,4 +21,8 @@
     - Lists
     - Atoms
     - Cond
-
+    - Default Arguments
+    - Guards
+    - Multiple Clause Functions
+    - Pattern Matching
+    - Tuples
